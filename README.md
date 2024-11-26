@@ -3,8 +3,8 @@
 ### This code provides a custom UITableView implementation for UIKit ViewCode
 
 <div style="display: flex;" align="center">
-  <img src="./README-images/previewLightMode.png" width="300" alt="Light mode page">
-  <img src="./README-images/previewDarkMode.png" width="300" alt="Dark mode page">
+  <img src="./README-images/previewLightMode.png" width="300" alt="Light mode screen">
+  <img src="./README-images/previewDarkMode.png" width="300" alt="Dark mode screen">
 </div>
 
 ---
